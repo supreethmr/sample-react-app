@@ -9,7 +9,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-intl": "^2.9.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "terra-base": "^5.29.0",
     "terra-form-checkbox": "^3.33.0",
     "terra-date-picker": "4.30.0"
