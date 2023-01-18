@@ -1,2 +1,2 @@
 # sample-react-app
-sample-app for getting started
+sample-app for getting started. 
